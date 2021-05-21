@@ -1,9 +1,10 @@
 .main-tables-container {
 	display: flex;
 	margin: 0 auto;
+	overflow-x: auto;
 }
 
-.main-tables-container .main-currency-table {
+.main-tables-container .main-currency-table, .main-commissions-table {
 	margin: 0 auto;
 }
 
